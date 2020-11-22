@@ -1,0 +1,2 @@
+*{margin:0;padding:0}body{color:white;font-family:"Open Sans", sans-serif;font-size:20px;text-align:center;line-height:5}.container{display:-ms-grid;display:grid;-ms-grid-rows:150px;grid-template-rows:150px;-ms-grid-columns:(250px)[5];grid-template-columns:repeat(5, 250px)}.item-1{background-color:#2c3043}.item-2{background-color:#fc6057}.item-3{background-color:#fda061}.item-4{background-color:#01a787}.item-5{background-color:#1bc1a1}
+/*# sourceMappingURL=style.css.map */
